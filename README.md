@@ -13,6 +13,7 @@ Performance Optimization: Implemented timeout handling and exception management 
 Reconnaissance Tool: Designed specifically for network security auditing and auditing active services.
 
 🚀 How to Run:-
+
 1.Ensure Python is installed.
 
 2.Run: python scanner.py
